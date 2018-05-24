@@ -1,4 +1,4 @@
-package com.metaopsis.crypto;
+package security.cryptor;
 
 import javax.crypto.BadPaddingException;
 import javax.crypto.Cipher;

@@ -1,4 +1,4 @@
-import com.metaopsis.crypto.Encryptor;
+import security.cryptor.Encryptor;
 
 import java.io.UnsupportedEncodingException;
 import java.security.InvalidAlgorithmParameterException;
